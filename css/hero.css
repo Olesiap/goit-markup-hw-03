@@ -1,0 +1,26 @@
+.hero{
+    background: #2e2f42;
+    color: #fff;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+}
+
+.hero-title{
+    text-align: center;
+}
+
+.order-button{
+    background: #4d5ae5;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.order-button:hover,
+.order-button:focus{
+    background: #404bbf;
+}

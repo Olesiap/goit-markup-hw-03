@@ -1,0 +1,37 @@
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+
+.logo-accent {
+    color: #4d5ae5;
+}
+
+.navigation-link{
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.navigation-link:hover,
+.navigation-link:focus{
+    font-weight: 500;
+    color: #404bbf;
+}
+
+.address{
+    font-style: normal;
+}
+
+.address-link{
+    color: inherit;
+}
+
+.address-link:hover,
+.address-link:focus{
+    color: #404bbf;
+}
