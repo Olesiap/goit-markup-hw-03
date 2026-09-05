@@ -7,7 +7,6 @@
 
 .footer-wrapper {
   width: 264px;
-  height: 112px;
   max-width: 264px;
 }
 
@@ -23,5 +22,10 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  display: inline-block;
   margin-bottom: 16px;
+}
+
+.footer-text {
+  margin: 0;
 }
