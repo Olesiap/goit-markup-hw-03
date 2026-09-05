@@ -1,10 +1,15 @@
-.features-title{
-    display: none;
+.feature-list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+  margin-bottom: 8px;
+}
+.feature-wrapper {
+  display: flex;
+  gap: 24px;
 }
 
-.feature-list-title{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    color: #2e2f42;
+.features-list {
+  width: calc((100% - 72px) / 4);
 }
