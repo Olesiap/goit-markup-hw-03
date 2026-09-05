@@ -34,13 +34,13 @@
 
 .address-list {
   display: inline-flex;
-  padding: 24px 0;
   gap: 40px;
   align-items: center;
 }
 
 .address-link {
   color: inherit;
+  padding: 24px 0;
 }
 
 .address-link:hover,
